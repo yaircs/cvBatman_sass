@@ -1,0 +1,79 @@
+
+
+
+
+
+/*
+
+
+header {
+    display: flex;
+    background-color: #E6E6E6;
+    flex-direction: column;
+}
+
+img {
+    height: 147px;
+    width: 100px;
+    align-self: center;
+}
+
+main{
+    text-align: center;
+}
+/*-----------body------------*/
+/*
+h1 {
+    background: #C4C4C4;
+    color: #005677;
+    font-family: Times New Roman;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 84.69%;
+    letter-spacing: 0.3em;
+    text-align: center;
+    margin: 0;
+}
+
+h2 {
+    background: #C4C4C4;
+    color: #005677;
+    font-family: Times New Roman;
+    font-style: normal;
+    font-weight: bold;
+    width: 70%;
+}
+li{
+    font-family: Times New Roman;
+    font-size: 15px;
+}
+span p {
+    font-family: Times New Roman;
+    font-style: normal;
+    font-size: 15px;
+}
+.datosPersonales{
+    font-family: Times New Roman;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 84.69%;
+}
+.fechas{
+    font-family: Times New Roman;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+}
+article{
+    display: flex;
+}
+
+/*-----------footer------------*/
+/*
+footer {
+    background: #005677
+}
+
+*/

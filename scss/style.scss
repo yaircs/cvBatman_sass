@@ -1,0 +1,115 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body 
+
+{
+  header {
+    display: flex;
+    background-color: #e6e6e6;
+    flex-direction: column;
+
+    img {
+      height: 147px;
+      width: 100px;
+      align-self: center;
+    }
+
+    h1 {
+      background: #c4c4c4;
+      color: #005677;
+      font-family: Times New Roman;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 35px;
+      line-height: 84.69%;
+      letter-spacing: 0.3em;
+      text-align: center;
+      margin: 0;
+    }
+  }
+
+  main {
+    margin-top: 4.5%;
+    margin-bottom: 4.5%;
+
+    section {
+
+      ul {
+        li {
+          font-family: Times New Roman;
+          font-size: 15px;
+          list-style: circle;
+          margin-left: 20%;
+        }
+
+        span {
+          .datos{
+             margin-left: 23%;
+          }
+          p {
+            font-family: Times New Roman;
+            font-style: normal;
+            font-size: 15px;
+             margin-left: 23%;
+          }
+
+          .fechas {
+            font-family: Times New Roman;
+            font-style: normal;
+            font-weight: bold;
+            font-size: 15px;
+          }
+        }
+      }
+
+      h2 {
+        background: #c4c4c4;
+        color: #005677;
+        font-family: Times New Roman;
+        font-style: normal;
+        font-weight: bold;
+        width: 70%;
+        margin-left: 15% ;
+      }
+      .datosPersonales {
+        font-family: Times New Roman;
+        font-style: italic;
+        font-weight: bold;
+        font-size: 1rem;
+        line-height: 84.69%;
+      }
+
+      article{
+        padding-left: 17%;
+        p{
+          text-align: left;
+          padding-left: 11%;
+        }
+      }
+    
+    }
+     
+  }
+   footer{
+         background: #005677;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 37px;
+    gap: 26px;
+    
+    img{
+      height: 20px;
+      width: 20px;
+    }
+    span{
+       margin: 0;
+    color: white;
+    }
+      }
+
+}

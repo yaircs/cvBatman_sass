@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body header {
+  display: flex;
+  background-color: #e6e6e6;
+  flex-direction: column;
+}
+body header img {
+  height: 147px;
+  width: 100px;
+  align-self: center;
+}
+body header h1 {
+  background: #c4c4c4;
+  color: #005677;
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 35px;
+  line-height: 84.69%;
+  letter-spacing: 0.3em;
+  text-align: center;
+  margin: 0;
+}
+body main {
+  margin-top: 4.5%;
+  margin-bottom: 4.5%;
+}
+body main section ul li {
+  font-family: Times New Roman;
+  font-size: 15px;
+  list-style: circle;
+  margin-left: 20%;
+}
+body main section ul span .datos {
+  margin-left: 23%;
+}
+body main section ul span p {
+  font-family: Times New Roman;
+  font-style: normal;
+  font-size: 15px;
+  margin-left: 23%;
+}
+body main section ul span .fechas {
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+}
+body main section h2 {
+  background: #c4c4c4;
+  color: #005677;
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: bold;
+  width: 70%;
+  margin-left: 15%;
+}
+body main section .datosPersonales {
+  font-family: Times New Roman;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 1rem;
+  line-height: 84.69%;
+}
+body main section article {
+  padding-left: 17%;
+}
+body main section article p {
+  text-align: left;
+  padding-left: 11%;
+}
+body footer {
+  background: #005677;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 37px;
+  gap: 26px;
+}
+body footer img {
+  height: 20px;
+  width: 20px;
+}
+body footer span {
+  margin: 0;
+  color: white;
+}/*# sourceMappingURL=style.css.map */
